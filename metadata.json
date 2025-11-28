@@ -1,0 +1,5 @@
+{
+  "name": "CineGen Director",
+  "description": "A cinematic storyboard generator and asset manager powered by Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
